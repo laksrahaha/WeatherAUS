@@ -1,0 +1,4 @@
+Rule,Prediction,Accuracy,Correct Count,Match Count,Specified Conditions,Main Pattern
+56,Rain,0.8474,4798,5662,6,"RainToday = Yes, high afternoon humidity and cloud"
+92,Rain,0.898,1980,2205,6,"Very high afternoon humidity, lower pressure and cloud"
+300,No Rain,0.9183,8786,9568,5,"RainToday = No, lower afternoon humidity and moderate wind gusts"
